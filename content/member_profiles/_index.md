@@ -362,3 +362,13 @@ Capture-mark-recapture models, mixed models and trends in long-term monitoring p
 Community ecology and molecular epidemiology are my main interests. I routinely develop software for multivariate analyses in R
 
 ---
+
+## Diogo B. Provete
+ 
+{{< twitter DiogoProvete >}}
+{{< github diogoprov >}}
+{{< website "http://diogoprovete.weebly.com" >}}
+
+Evolutionary Community Ecology, Multivariate stats, model-based ordination, eco-evolutionary dynamics
+
+---
